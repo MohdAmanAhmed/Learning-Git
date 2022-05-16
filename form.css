@@ -1,0 +1,42 @@
+{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    text-transform: capitalize;
+}
+.main{
+    width: 100%;
+}
+.form{
+    border: 1px solid rgba(128, 128, 128, 0.611);
+    border-radius: 10px;
+    width: fit-content;
+    padding: 50px;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+    h1{
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+h5{
+    font-size: 15px;
+}
+span{
+    color: red;
+}
+input{
+    font-size: 10px;
+    margin: 20px 0px;
+    border-bottom: 2px solid red;
+    border: none;
+    border-bottom: 1px solid rgba(121, 107, 212, 0.662);
+}
+input:focus{
+    outline: none;
+    }
+    .name{
+    margin-left: 50px
